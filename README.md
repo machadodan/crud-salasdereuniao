@@ -1,5 +1,6 @@
-# crud-salasdereuniao
+# crud-SalasdeReuniões
 Gerenciador de salas de reuniões com Java para integração Client-Angular
+
 Stack utilizada:
 Spring Web
 Spring Data JPA
